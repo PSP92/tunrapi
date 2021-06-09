@@ -1,0 +1,2 @@
+class Tunein < ApplicationRecord
+end
